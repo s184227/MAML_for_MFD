@@ -24,3 +24,8 @@ The folder "results" includes the extended plots, tables and numerical outputs f
     - 50_detectors experiment
     - 25_detectors experiment
     - 10_detectors experiment
+
+#Validation
+The folder includes the results from two additional sets of experiments:
+- MAML + different non-parametric model
+- Transfer learning vs meta-learning
